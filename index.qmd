@@ -1,6 +1,6 @@
 ---
-title: "Raster Explorer"
-pagetitle: "Raster Explorer — Full-screen Leaflet map"
+title: "GECO Leaflet Map"
+pagetitle: "GECO Leaflet Map — Full-screen raster example"
 ---
 
 ```{r}

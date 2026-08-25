@@ -5,7 +5,7 @@ project:
     - images/**
 
 book:
-  title: "Raster Explorer"
+  title: "GECO Leaflet Map"
   chapters:
     - index.qmd
   page-navigation: false
