@@ -1,0 +1,12 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Raster Explorer",
+    "section": "",
+    "text": "Interactive raster example\n\n\nReading a continuous landscape\n\n\nThis map demonstrates how a gridded surface can be rendered directly in Leaflet from R.\n\n\n\nAbout the layer\n\n\nThe coloured cells are a georeferenced version of R’s built-in volcano matrix. Each pixel stores one elevation value; neighbouring colours reveal the shape and gradient of the surface.\n\n\n\n\nExplore\n\n\n\nPan and zoom across the raster.\n\n\nToggle the raster in the layer control.\n\n\nUse the legend to interpret cell values.\n\n\n\n\n\nReferences\n\n\n\nLeaflet for R documentation\n\n\nSpatial Data Science with R\n\n\nGECO R book template\n\n\n\n\n\n‹ Hide information",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Raster Explorer</span>"
+    ]
+  }
+]
