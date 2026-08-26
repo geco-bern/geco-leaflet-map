@@ -144,10 +144,10 @@ main.content {
 
 .brand-rule {
   display: block;
-  width: 3rem;
+  width: 3.2rem;
   height: 0.22rem;
   margin-top: 1.15rem;
-  background: var(--geco-green);
+  background: #2eaf87;
 }
 
 .eyebrow {
