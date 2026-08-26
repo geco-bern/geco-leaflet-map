@@ -74,7 +74,7 @@ leaflet(
 </div>
 
 <p class="eyebrow">Interactive raster example</p>
-<h1>Reading a continuous landscape</h1>
+<h1>GECO Leaflet Map</h1>
 <p class="lede">This map demonstrates how a gridded surface can be rendered directly in Leaflet from R.</p>
 
 <section>
